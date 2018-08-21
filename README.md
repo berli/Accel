@@ -249,3 +249,4 @@ bool intersects = gpuStacklessGPUIntersect( const glm::vec3 &ray_o, const glm::v
 
 ```
 glew: git clone https://github.com/nigels-com/glew.git
+glfw: git clone https://github.com/glfw/glfw.git
